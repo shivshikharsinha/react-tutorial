@@ -1,4 +1,3 @@
-```markdown
 # Chai aur React Tutorial Repository
 
 This repository serves as a comprehensive guide and code repository for the "Chai aur React" tutorial.
@@ -45,4 +44,3 @@ If you'd like to contribute to this repository, please follow the guidelines out
 This project is licensed under the [MIT License](LICENSE).
 
 Happy coding!
-```
