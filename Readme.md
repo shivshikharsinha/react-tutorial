@@ -31,10 +31,6 @@ Each folder contains the code relevant to that particular part of the series.
 Feel free to use, modify, and experiment with the code in this repository.
 If you find any issues or improvements, don't hesitate to contribute.
 
-## Contributing
-
-If you'd like to contribute to this repository, please follow the guidelines outlined in the [Contributing.md](Contributing.md) file.
-
 ## Credits
 
 - **Chai aur Code** - Subscribe to the [Chai aur Code YouTube Channel](https://www.youtube.com/@chaiaurcode) for the full tutorial series.
