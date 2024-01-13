@@ -7,7 +7,11 @@ function App() {
   let [counter, setCounter] = useState(7)
   
   const addValue = ()=>{
-    setCounter(counter+1)
+    setCounter(counter+1)  //counter value cannot be increased mul. times just by duplicating this statement.
+    // setCounter(prevCount=> prevCount + 1 )  // using the prevcount in the callback inside a setCounter 
+    // setCounter(prevCount=> prevCount + 1 )  // allows you to increase value multiple times. This is 
+    // setCounter(prevCount=> prevCount + 1 )  // called "state as a snapshot".
+    // setCounter(prevCount=> prevCount + 1 )
     
   }
   const subValue = ()=>{
